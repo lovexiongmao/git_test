@@ -1,6 +1,5 @@
 just a test file
-<<<<<<< Updated upstream
 the first edit
-=======
 test01
->>>>>>> Stashed changes
+the first remote edit
+the second remote edit
