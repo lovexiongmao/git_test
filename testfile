@@ -1,4 +1,4 @@
-init master testfile
+init master testfile!
 the	first	local	master	edit
 the	first	remote	master	edit
 the	second	local	master	edit
