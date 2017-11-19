@@ -1,11 +1,16 @@
 init master testfile
 the	first	local	master	edit
 the	first	remote	master	edit
+<<<<<<< HEAD
 !the	second	local	master	edit!!
+=======
+the	second	local	master	edit!
+>>>>>>> d2b65f25157df53997f15397f3467d89d6f2a8be
 the second remote master  edit
 the	third	local	master  edit
 the third remote master edit
 the     forth	local   master	edit
+the     fotrh remote  master  edit
 the     fivth	local	master	edit
 the     sixth	local	master  edit
 the     seventh	local	master	edit
