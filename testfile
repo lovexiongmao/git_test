@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-the	first	local	master	edit
-=======
 init master testfile
-the first remote masteredit
-
->>>>>>> bcd038c4c87480352b1a017150e49b29831f6211
+the	first	local	master	edit
+the first remote master edit
