@@ -2,6 +2,7 @@ init master testfile
 the	first	local	master	edit
 the	first	remote	master	edit
 the	second	local	master	edit
+the second remote master  edit
 the	third	local	master  edit
 the     forth	local   master	edit
 the     fivth	local	master	edit
